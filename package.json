@@ -1,0 +1,30 @@
+{
+  "name": "agadienggcollege",
+  "version": "2.0.0",
+  "description": "Upgraded modern portal for SKSVMACET Laxmeshwar inspired by KLE Tech & IIT Dharwad",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node scripts/dev.js",
+    "server": "node server/index.js",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm install && npm run build",
+    "test": "node -e \"console.log('Database and Backend are ready')\""
+  },
+  "keywords": [
+    "sksvmacet",
+    "college-portal",
+    "react",
+    "express",
+    "sqlite"
+  ],
+  "author": "SKSVMACET Web Development Cell",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0"
+  }
+}

@@ -1,0 +1,916 @@
+{
+  "cse": [
+    {
+      "dept": "cse",
+      "name": "Dr. Parashuram Baraki",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/12/dr-parashuram-baraki-e1767089044139.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. Parashuram Baraki",
+        "Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Dr. S Poongodi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/07/Dr.-S-poongodi.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. S Poongodi",
+        "Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Dr. Arun A. Kumbi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Arun-K.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. Arun A. Kumbi",
+        "Associate Professor & HOD"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mr. Vikram Shirol",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Vikram-S.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Vikram Shirol",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mr. Shrikant Jogar",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Srikant-J.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Shrikant Jogar",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mr. Basavaraj Muragod",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Basavaraj-M.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Basavaraj Muragod",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mrs. Rajeshwari Gamanagatti",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Rajeshwari-G.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mrs. Rajeshwari Gamanagatti",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mr. Anil Narayanpur",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Anil-N.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Anil Narayanpur",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mr. Nagaraj Baradeli",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Nagaraj-B.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Nagaraj Baradeli",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mr. Shrikanth Malligawad",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/06/shrikanthm-cse.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Shrikanth Malligawad",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mr. Jagadish Kotagi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/01/jagadish-kotagi.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Jagadish Kotagi",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mrs. Sunita Halagatti",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/02/sunita-halagatti-cse-e1777356432646.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mrs. Sunita Halagatti",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Ms. Meghana",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/04/meghana-cse-e1777356580897.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Ms. Meghana",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Ms. Sahana B Sudarshana",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/08/sahana-cse.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Ms. Sahana B Sudarshana",
+        "System Analyst"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mr. Aditya D. P.",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Aditya-P.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Aditya D. P.",
+        "Programmer"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Ms. Netravati Gokavi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/06/netravati-cse.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Ms. Netravati Gokavi",
+        "Programmer"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mrs. Pallavi S Hiremath",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/12/pallavi-cse.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mrs. Pallavi S Hiremath",
+        "Instructor"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mr. Anilkumar S H",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/06/anil-cse.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Anilkumar S H",
+        "Instructor (Deputed for Higher Studies)"
+      ]
+    },
+    {
+      "dept": "cse",
+      "name": "Mr. Vinay Hemagirimath",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Vinay-H.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Vinay Hemagirimath",
+        "Mechanic"
+      ]
+    }
+  ],
+  "civil": [
+    {
+      "dept": "civil",
+      "name": "Dr. Swapna Channagoudar",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/01/Dr.-Swapna.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. Swapna Channagoudar",
+        "HOD"
+      ]
+    },
+    {
+      "dept": "civil",
+      "name": "Dr. Shivarajkumar Goudar",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/01/shivarajkumar.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. Shivarajkumar Goudar",
+        "Associate Professor"
+      ]
+    },
+    {
+      "dept": "civil",
+      "name": "Mr. Arun Tandi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/01/arun-tandi.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Arun Tandi",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "civil",
+      "name": "Mr. Malatesh Suranagi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/01/maltesh-surangi.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Malatesh Suranagi",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "civil",
+      "name": "Mr. Laxman Patil",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/01/laxman-patil.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Laxman Patil",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "civil",
+      "name": "Mr. Rajendra Shetra",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/01/rajendra.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Rajendra Shetra",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "civil",
+      "name": "Mr. Manjunath Malavalli",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/06/manjunath-civil.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Manjunath Malavalli",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "civil",
+      "name": "Mr. Kiran",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/01/kiran.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Kiran",
+        "Foreman"
+      ]
+    },
+    {
+      "dept": "civil",
+      "name": "Mr. Sandeep",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/01/sandeep.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Sandeep",
+        "Instructor"
+      ]
+    },
+    {
+      "dept": "civil",
+      "name": "Mr. Sanjeev",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/01/sanjeev.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Sanjeev",
+        "Instructor"
+      ]
+    }
+  ],
+  "eee": [
+    {
+      "dept": "eee",
+      "name": "Dr. R. M. Patil",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Dr.-R-M-Patil.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. R. M. Patil",
+        "Professor & HOD"
+      ]
+    },
+    {
+      "dept": "eee",
+      "name": "Mr. Iranna Makarabbi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/07/iranna-makarabbi.png",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Iranna Makarabbi",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "eee",
+      "name": "Mr. Manjunath Hombal",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Manjunath-H.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Manjunath Hombal",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "eee",
+      "name": "Mrs. Pratima Kadekar",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Prathima-K.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mrs. Pratima Kadekar",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "eee",
+      "name": "Mrs. Shridevi Ganiger",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Shridevi-G.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mrs. Shridevi Ganiger",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "eee",
+      "name": "Mr. Shivalingappa D R",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Shivalingappa.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Shivalingappa D R",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "eee",
+      "name": "Mr. Keshav Negalur",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/06/keshav-eee.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Keshav Negalur",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "eee",
+      "name": "Mrs. Manjula Rathod",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/09/manjula-rathod.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mrs. Manjula Rathod",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "eee",
+      "name": "Mrs. Shivaleela S Konnur",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/09/mrs-shivaleela.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mrs. Shivaleela S Konnur",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "eee",
+      "name": "Mr. Sanjeevkumar Kulkarni",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Sanjeew-k.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Sanjeevkumar Kulkarni",
+        "Foreman"
+      ]
+    },
+    {
+      "dept": "eee",
+      "name": "Mr. Vinayak S K",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Vinayk.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Vinayak S K",
+        "Instructor"
+      ]
+    }
+  ],
+  "ece": [
+    {
+      "dept": "ece",
+      "name": "Dr. Santosh Bujari",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Dr.-Suresh-B.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. Santosh Bujari",
+        "HOD"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Dr. Subhas Meti",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Dr.Subhash-M.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. Subhas Meti",
+        "Professor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Dr. Shashidhar P. K.",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Shashidar-P-K.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. Shashidhar P. K.",
+        "Associate Professor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Kiran Kotin",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Kiran-k.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Kiran Kotin",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Basavaraj Soratur",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Basavaraj-S.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Basavaraj Soratur",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Manjunathraddi Bentur",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Manjunathraddi-B.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Manjunathraddi Bentur",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Amarappa Pagi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Amarappa-P.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Amarappa Pagi",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Niranjan Shettar",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/06/niranjan-ece-e1750922796759.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Niranjan Shettar",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Arunakumar S B",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/06/arunakumar-ece.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Arunakumar S B",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Chandramouli Joshi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/06/chandramouli-ece-2.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Chandramouli Joshi",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mrs. Anupama Hongal",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/09/Anupama-ECE.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mrs. Anupama Hongal",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Ramesh Ashtekar",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/10/ramesh-ashtekar.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Ramesh Ashtekar",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Kiran Naganur",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/05/resized_278x289.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Kiran Naganur",
+        "Foreman"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Girish Harti",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Girish-H.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Girish Harti",
+        "Instructor"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Mahantesh M",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Mahantesh-M.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Mahantesh M",
+        "Instructor (Deputed for Higher Studies)"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Mr. Shridhar Badiger",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/09/shridhar-badiger.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Shridhar Badiger",
+        "Instructor (Deputed for Higher Studies)"
+      ]
+    },
+    {
+      "dept": "ece",
+      "name": "Ms. Soundarya Hiremath",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/11/soundarya-hiremath.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Ms. Soundarya Hiremath",
+        "Instructor (Deputed for Higher Studies)"
+      ]
+    }
+  ],
+  "ise": [
+    {
+      "dept": "ise",
+      "name": "Dr. Arunkumar Joshi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Dr.-Arun-J.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. Arunkumar Joshi",
+        "Assoc. Professor & HOD"
+      ]
+    },
+    {
+      "dept": "ise",
+      "name": "Mrs. Pratima Mahapurush",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/09/Prathima-ECE.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mrs. Pratima Mahapurush",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ise",
+      "name": "Mr. Shambulingappa H. S.",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Shambulingappa.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Shambulingappa H. S.",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ise",
+      "name": "Mr. Ravikumar Chawhan",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/12/ravikumar-chavanise.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Ravikumar Chawhan",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ise",
+      "name": "Mrs. Ashwini Gouripur",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/09/Ashwini-ISE.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mrs. Ashwini Gouripur",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ise",
+      "name": "Mr. Hareesha Harogoppa",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-22-at-5.26.19-PM.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Hareesha Harogoppa",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ise",
+      "name": "Mr. Sangamesh Ulavappanavar",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/12/sangamesh-ise.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Sangamesh Ulavappanavar",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ise",
+      "name": "Mr. Suresh Aralelimath",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/04/suresh-ise-1-e1777355188594.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Suresh Aralelimath",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "ise",
+      "name": "Ms. Jyothi Sankanagoudar",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/09/Jyothi-ISE.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Ms. Jyothi Sankanagoudar",
+        "Foreman"
+      ]
+    },
+    {
+      "dept": "ise",
+      "name": "Mrs. Rashmi R Kammar",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Rashmi.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mrs. Rashmi R Kammar",
+        "Instructor"
+      ]
+    },
+    {
+      "dept": "ise",
+      "name": "Mr. Shashidhar L N",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/06/shashidhar-cse.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Shashidhar L N",
+        "Instructor"
+      ]
+    },
+    {
+      "dept": "ise",
+      "name": "Mr. Altaf Gokavi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Altaf-G.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Altaf Gokavi",
+        "Mechanic"
+      ]
+    }
+  ],
+  "mech": [
+    {
+      "dept": "mech",
+      "name": "Dr. Sreenivasa R",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/11/sreenivasa.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. Sreenivasa R",
+        "Associate Professor & HOD"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Dr. Kallesh S S",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/11/kallesh.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Dr. Kallesh S S",
+        "Associate Professor"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Mr. Somappa Navalagund",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/11/somappa.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Somappa Navalagund",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Mr. Mukunda Dabair",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/11/mukund.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Mukunda Dabair",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Mr. Ravi Duragannavar",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/11/ravi-d.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Ravi Duragannavar",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Mr. Satishkumar L",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/06/satishkumar-mech.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Satishkumar L",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Mr. Girish S Halli",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-10-at-11.01.12-AM.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Girish S Halli",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Mr. Naveenkumar P",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2026/11/naveen-kumar-p.jpeg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Naveenkumar P",
+        "Assistant Professor"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Mr. Kademani Rakesh",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/10/kademani-rakesh1.png",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Kademani Rakesh",
+        "Foreman"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Mr. Krishna Jamakhandi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Jamakandi.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Krishna Jamakhandi",
+        "Assistant Instructor"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Mr. M. I. Annigeri",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Anigeri.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. M. I. Annigeri",
+        "Assistant Instructor"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Mr. Praveen Bhuvanagoudar",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/praveen.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Praveen Bhuvanagoudar",
+        "Assistant Instructor"
+      ]
+    },
+    {
+      "dept": "mech",
+      "name": "Mr. Manjunath Umachagi",
+      "img": "https://agadiengcollege.com/wp-content/uploads/2024/02/Manjunath.jpg",
+      "email": null,
+      "phone": null,
+      "textLines": [
+        "Mr. Manjunath Umachagi",
+        "Mechanic"
+      ]
+    }
+  ]
+}

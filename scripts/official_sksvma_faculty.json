@@ -1,0 +1,857 @@
+[
+  {
+    "dept": "cse",
+    "name": "Dr. Parashuram Baraki",
+    "designation": "Professor",
+    "qualification": "Ph.D., M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9686042385",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/12/dr-parashuram-baraki-e1767089044139.jpeg"
+  },
+  {
+    "dept": "cse",
+    "name": "Dr. S Poongodi",
+    "designation": "Professor",
+    "qualification": "Ph.D., M.Tech",
+    "email": "poongodi.cse@agadiengcollege.com",
+    "phone": "+91 8695644553",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/07/Dr.-S-poongodi.jpeg"
+  },
+  {
+    "dept": "cse",
+    "name": "Dr. Arun A. Kumbi",
+    "designation": "Associate Professor & HOD",
+    "qualification": "Ph.D., M.Tech",
+    "email": "arun.cse@agadiengcollege.com",
+    "phone": "+91 8095791205",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Arun-K.jpg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mr. Vikram Shirol",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "hod.cse@agadiengcollege.com",
+    "phone": "+91 9880728834",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Vikram-S.jpg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mr. Shrikant Jogar",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "shrikanth.cse@agadiengcollege.com",
+    "phone": "+91 9902790185",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Srikant-J.jpg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mr. Basavaraj Muragod",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "basavaraj.cse@agadiengcollege.com",
+    "phone": "+91 8884062317",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Basavaraj-M.jpg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mrs. Rajeshwari Gamanagatti",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "rajeshwari.cse@agadiengcollege.com",
+    "phone": "+91 9591316573",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Rajeshwari-G.jpg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mr. Anil Narayanpur",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "anil.cse@agadiengcollege.com",
+    "phone": "+91 8217658281",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Anil-N.jpg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mr. Nagaraj Baradeli",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "nagaraj.cse@agadiengcollege.com",
+    "phone": "+91 7996972715",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Nagaraj-B.jpg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mr. Shrikanth Malligawad",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "shrikanthm.cse@agadiengcollege.com",
+    "phone": "+91 9035528726",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/06/shrikanthm-cse.jpeg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mr. Jagadish Kotagi",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "jagadish.cse@agadiengcollege.com",
+    "phone": "+91 9916865653",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/01/jagadish-kotagi.jpeg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mrs. Sunita Halagatti",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "sunita.cse@agadiengcollege.com",
+    "phone": "+91 9902772151",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/02/sunita-halagatti-cse-e1777356432646.jpeg"
+  },
+  {
+    "dept": "cse",
+    "name": "Ms. Meghana",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "meghana.cse@agadiengcollege.com",
+    "phone": "+91 8088097066",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/04/meghana-cse-e1777356580897.jpeg"
+  },
+  {
+    "dept": "cse",
+    "name": "Ms. Sahana B Sudarshana",
+    "designation": "System Analyst",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/08/sahana-cse.jpeg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mr. Aditya D. P.",
+    "designation": "Programmer",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Aditya-P.jpg"
+  },
+  {
+    "dept": "cse",
+    "name": "Ms. Netravati Gokavi",
+    "designation": "Programmer",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/06/netravati-cse.jpeg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mrs. Pallavi S Hiremath",
+    "designation": "Instructor",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/12/pallavi-cse.jpeg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mr. Anilkumar S H",
+    "designation": "Instructor (Deputed for Higher Studies)",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/06/anil-cse.jpeg"
+  },
+  {
+    "dept": "cse",
+    "name": "Mr. Vinay Hemagirimath",
+    "designation": "Mechanic",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Vinay-H.jpg"
+  },
+  {
+    "dept": "civil",
+    "name": "Dr. Swapna Channagoudar",
+    "designation": "HOD",
+    "qualification": "Ph.D., M.Tech",
+    "email": "hod.civil@agadiengcollege.com",
+    "phone": "+91 8867617379",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/01/Dr.-Swapna.jpg"
+  },
+  {
+    "dept": "civil",
+    "name": "Dr. Shivarajkumar Goudar",
+    "designation": "Associate Professor",
+    "qualification": "Ph.D., M.Tech",
+    "email": "shivaraj.civil@agadiengcollege.com",
+    "phone": "+91 8123679168",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/01/shivarajkumar.jpg"
+  },
+  {
+    "dept": "civil",
+    "name": "Mr. Arun Tandi",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "arun.civil@agadiengcollege.com",
+    "phone": "+91 9591655705",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/01/arun-tandi.jpg"
+  },
+  {
+    "dept": "civil",
+    "name": "Mr. Malatesh Suranagi",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "maltesh.civil@agadiengcollege.com",
+    "phone": "+91 9743676504",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/01/maltesh-surangi.jpg"
+  },
+  {
+    "dept": "civil",
+    "name": "Mr. Laxman Patil",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "laxman.civil@agadiengcollege.com",
+    "phone": "+91 9591655705",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/01/laxman-patil.jpg"
+  },
+  {
+    "dept": "civil",
+    "name": "Mr. Rajendra Shetra",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "rajendra.civil@agadiengcollege.com",
+    "phone": "+91 8867617379",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/01/rajendra.jpg"
+  },
+  {
+    "dept": "civil",
+    "name": "Mr. Manjunath Malavalli",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "manjunath.civil@agadiengcollege.com",
+    "phone": "+91 8970621530",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/06/manjunath-civil.jpeg"
+  },
+  {
+    "dept": "civil",
+    "name": "Mr. Kiran",
+    "designation": "Foreman",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/01/kiran.jpg"
+  },
+  {
+    "dept": "civil",
+    "name": "Mr. Sandeep",
+    "designation": "Instructor",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/01/sandeep.jpg"
+  },
+  {
+    "dept": "civil",
+    "name": "Mr. Sanjeev",
+    "designation": "Instructor",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/01/sanjeev.jpg"
+  },
+  {
+    "dept": "eee",
+    "name": "Dr. R. M. Patil",
+    "designation": "Professor & HOD",
+    "qualification": "Ph.D., M.Tech",
+    "email": "hod.eee@agadiengcollege.com",
+    "phone": "+91 9975052933",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Dr.-R-M-Patil.jpg"
+  },
+  {
+    "dept": "eee",
+    "name": "Mr. Iranna Makarabbi",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "iranna.eee@agadiengcollege.com",
+    "phone": "+91 8867701426",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/07/iranna-makarabbi.png"
+  },
+  {
+    "dept": "eee",
+    "name": "Mr. Manjunath Hombal",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "manjunath.eee@agadiengcollege.com",
+    "phone": "+91 9886178019",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Manjunath-H.jpg"
+  },
+  {
+    "dept": "eee",
+    "name": "Mrs. Pratima Kadekar",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "pratima.eee@agadiengcollege.com",
+    "phone": "+91 9449751452",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Prathima-K.jpg"
+  },
+  {
+    "dept": "eee",
+    "name": "Mrs. Shridevi Ganiger",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "shridevig.eee@agadiengcollege.com",
+    "phone": "+91 8105572501",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Shridevi-G.jpg"
+  },
+  {
+    "dept": "eee",
+    "name": "Mr. Shivalingappa D R",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "shivalingappa.eee@agadiengcollege.com",
+    "phone": "+91 9663338639",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Shivalingappa.jpeg"
+  },
+  {
+    "dept": "eee",
+    "name": "Mr. Keshav Negalur",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "keshav.eee@agadiengcollege.com",
+    "phone": "+91 9886644507",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/06/keshav-eee.jpeg"
+  },
+  {
+    "dept": "eee",
+    "name": "Mrs. Manjula Rathod",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "manjula.eee@agadiengcollege.com",
+    "phone": "+91 9686324386",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/09/manjula-rathod.jpeg"
+  },
+  {
+    "dept": "eee",
+    "name": "Mrs. Shivaleela S Konnur",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "shivaleela.eee@agadiengcollege.com",
+    "phone": "+91 8971869462",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/09/mrs-shivaleela.jpeg"
+  },
+  {
+    "dept": "eee",
+    "name": "Mr. Sanjeevkumar Kulkarni",
+    "designation": "Foreman",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Sanjeew-k.jpg"
+  },
+  {
+    "dept": "eee",
+    "name": "Mr. Vinayak S K",
+    "designation": "Instructor",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Vinayk.jpg"
+  },
+  {
+    "dept": "ece",
+    "name": "Dr. Santosh Bujari",
+    "designation": "HOD",
+    "qualification": "Ph.D., M.Tech",
+    "email": "hod.ece@agadiengcollege.com",
+    "phone": "+91 9449375371",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Dr.-Suresh-B.jpg"
+  },
+  {
+    "dept": "ece",
+    "name": "Dr. Subhas Meti",
+    "designation": "Professor",
+    "qualification": "Ph.D., M.Tech",
+    "email": "subhash.ece@agadiengcollege.com",
+    "phone": "+91 9845675725",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Dr.Subhash-M.jpg"
+  },
+  {
+    "dept": "ece",
+    "name": "Dr. Shashidhar P. K.",
+    "designation": "Associate Professor",
+    "qualification": "Ph.D., M.Tech",
+    "email": "shashidhar.ece@agadiengcollege.com",
+    "phone": "+91 9742445955",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Shashidar-P-K.jpg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Kiran Kotin",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "kiran.ece@agadiengcollege.com",
+    "phone": "+91 9986943239",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Kiran-k.jpg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Basavaraj Soratur",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "basavaraj.ece@agadiengcollege.com",
+    "phone": "+91 9742708070",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Basavaraj-S.jpg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Manjunathraddi Bentur",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "manjunath.ece@agadiengcollege.com",
+    "phone": "+91 8867707197",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Manjunathraddi-B.jpg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Amarappa Pagi",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "amarappa.ece@agadiengcollege.com",
+    "phone": "+91 9663338639",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Amarappa-P.jpg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Niranjan Shettar",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "niranjan.ece@agadiengcollege.com",
+    "phone": "+91 9900997978",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/06/niranjan-ece-e1750922796759.jpeg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Arunakumar S B",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "arunakumar.ece@agadiengcollege.com",
+    "phone": "+91 9448121772",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/06/arunakumar-ece.jpeg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Chandramouli Joshi",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "chndramouli.ece@agadiengcollege.com",
+    "phone": "+91 9739173237",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/06/chandramouli-ece-2.jpeg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mrs. Anupama Hongal",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "anupama.ece@agadiengcollege.com",
+    "phone": "+91 9739173237",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/09/Anupama-ECE.jpeg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Ramesh Ashtekar",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "ramesh.ece@agadiengcollege.com",
+    "phone": "+91 9738929769",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/10/ramesh-ashtekar.jpeg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Kiran Naganur",
+    "designation": "Foreman",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/05/resized_278x289.jpg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Girish Harti",
+    "designation": "Instructor",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Girish-H.jpg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Mahantesh M",
+    "designation": "Instructor (Deputed for Higher Studies)",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Mahantesh-M.jpg"
+  },
+  {
+    "dept": "ece",
+    "name": "Mr. Shridhar Badiger",
+    "designation": "Instructor (Deputed for Higher Studies)",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/09/shridhar-badiger.jpeg"
+  },
+  {
+    "dept": "ece",
+    "name": "Ms. Soundarya Hiremath",
+    "designation": "Instructor (Deputed for Higher Studies)",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/11/soundarya-hiremath.jpeg"
+  },
+  {
+    "dept": "ise",
+    "name": "Dr. Arunkumar Joshi",
+    "designation": "Assoc. Professor & HOD",
+    "qualification": "Ph.D., M.Tech",
+    "email": "hod.ise@agadiengcollege.com",
+    "phone": "+91 9663579700",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Dr.-Arun-J.jpg"
+  },
+  {
+    "dept": "ise",
+    "name": "Mrs. Pratima Mahapurush",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "pratima.ise@agadiengcollege.com",
+    "phone": "+91 9845789768",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/09/Prathima-ECE.jpeg"
+  },
+  {
+    "dept": "ise",
+    "name": "Mr. Shambulingappa H. S.",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "shambulingappa.ise@agadiengcollege.com",
+    "phone": "+91 9686634981",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Shambulingappa.jpg"
+  },
+  {
+    "dept": "ise",
+    "name": "Mr. Ravikumar Chawhan",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "ravikumarc.ise@agadiengcollege.com",
+    "phone": "+91 9900997978",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/12/ravikumar-chavanise.jpeg"
+  },
+  {
+    "dept": "ise",
+    "name": "Mrs. Ashwini Gouripur",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "ashwini.ise@agadiengcollege.com",
+    "phone": "+91 7022953946",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/09/Ashwini-ISE.jpeg"
+  },
+  {
+    "dept": "ise",
+    "name": "Mr. Hareesha Harogoppa",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "harisha.ise@agadiengcollege.com",
+    "phone": "+91 9743616694",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-22-at-5.26.19-PM.jpeg"
+  },
+  {
+    "dept": "ise",
+    "name": "Mr. Sangamesh Ulavappanavar",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "sangamesh.ise@agadiengcollege.com",
+    "phone": "+91 9740785038",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/12/sangamesh-ise.jpg"
+  },
+  {
+    "dept": "ise",
+    "name": "Mr. Suresh Aralelimath",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "suresh.ise@agadiengcollege.com",
+    "phone": "+91 8867678886",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/04/suresh-ise-1-e1777355188594.jpeg"
+  },
+  {
+    "dept": "ise",
+    "name": "Ms. Jyothi Sankanagoudar",
+    "designation": "Foreman",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/09/Jyothi-ISE.jpeg"
+  },
+  {
+    "dept": "ise",
+    "name": "Mrs. Rashmi R Kammar",
+    "designation": "Instructor",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Rashmi.jpg"
+  },
+  {
+    "dept": "ise",
+    "name": "Mr. Shashidhar L N",
+    "designation": "Instructor",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/06/shashidhar-cse.jpeg"
+  },
+  {
+    "dept": "ise",
+    "name": "Mr. Altaf Gokavi",
+    "designation": "Mechanic",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Altaf-G.jpg"
+  },
+  {
+    "dept": "mech",
+    "name": "Dr. Sreenivasa R",
+    "designation": "Associate Professor & HOD",
+    "qualification": "Ph.D., M.Tech",
+    "email": "hod.mech@agadiengcollege.com",
+    "phone": "+91 7760382464",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/11/sreenivasa.jpeg"
+  },
+  {
+    "dept": "mech",
+    "name": "Dr. Kallesh S S",
+    "designation": "Associate Professor",
+    "qualification": "Ph.D., M.Tech",
+    "email": "kallesh.mech@agadiengcollege.com",
+    "phone": "+91 9902743739",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/11/kallesh.jpeg"
+  },
+  {
+    "dept": "mech",
+    "name": "Mr. Somappa Navalagund",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "somappa.mech@agadiengcollege.com",
+    "phone": "+91 9900173851",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/11/somappa.jpeg"
+  },
+  {
+    "dept": "mech",
+    "name": "Mr. Mukunda Dabair",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "mukunda.mech@agadiengcollege.com",
+    "phone": "+91 9945709175",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/11/mukund.jpeg"
+  },
+  {
+    "dept": "mech",
+    "name": "Mr. Ravi Duragannavar",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "ravi.mech@agadiengcollege.com",
+    "phone": "+91 8904504543",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/11/ravi-d.jpeg"
+  },
+  {
+    "dept": "mech",
+    "name": "Mr. Satishkumar L",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "satishkumar.mech@agadiengcollege.com",
+    "phone": "+91 8722742496",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/06/satishkumar-mech.jpeg"
+  },
+  {
+    "dept": "mech",
+    "name": "Mr. Girish S Halli",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "girish.mech@agadiengcollege.com",
+    "phone": "+91 9945564813",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-10-at-11.01.12-AM.jpeg"
+  },
+  {
+    "dept": "mech",
+    "name": "Mr. Naveenkumar P",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech",
+    "email": "naveenkumar.mech@agadiengcollege.com",
+    "phone": "+91 9110675451",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/11/naveen-kumar-p.jpeg"
+  },
+  {
+    "dept": "mech",
+    "name": "Mr. Kademani Rakesh",
+    "designation": "Foreman",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/10/kademani-rakesh1.png"
+  },
+  {
+    "dept": "mech",
+    "name": "Mr. Krishna Jamakhandi",
+    "designation": "Assistant Instructor",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Jamakandi.jpg"
+  },
+  {
+    "dept": "mech",
+    "name": "Mr. M. I. Annigeri",
+    "designation": "Assistant Instructor",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Anigeri.jpg"
+  },
+  {
+    "dept": "mech",
+    "name": "Mr. Praveen Bhuvanagoudar",
+    "designation": "Assistant Instructor",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/praveen.jpg"
+  },
+  {
+    "dept": "mech",
+    "name": "Mr. Manjunath Umachagi",
+    "designation": "Mechanic",
+    "qualification": "M.Tech",
+    "email": "info@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/02/Manjunath.jpg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Dr. Girish Yatinahalli",
+    "designation": "Associate Professor",
+    "qualification": "Ph.D., M.Sc",
+    "email": "girish.math@agadiengcollege.com",
+    "phone": "+91 9844950991",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/06/Dr.-Girish-Y.jpg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Dr. Mahesh Akki",
+    "designation": "Assistant Professor",
+    "qualification": "Ph.D., M.Sc",
+    "email": "mahesh.gs@agadiengcollege.com",
+    "phone": "+91 8867188085",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-10-at-10.40.49-AM.jpeg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Mr. S. N. Gondkar",
+    "designation": "Assistant Professor",
+    "qualification": "M.Sc",
+    "email": "shreenivas.phys@agadiengcollege.com",
+    "phone": "+91 7676694684",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/06/Gondkar.jpg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Mr. D. B. Badigannavar",
+    "designation": "Assistant Professor",
+    "qualification": "M.Sc",
+    "email": "dayanand.phys@agadiengcollege.com",
+    "phone": "+91 7829756069",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/06/Dyananad-B.jpg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Mr. Somashekar C. K.",
+    "designation": "Assistant Professor",
+    "qualification": "M.Sc",
+    "email": "somashekar.math@agadiengcollege.com",
+    "phone": "+91 9449121196",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/06/s-c-kerimani.jpg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Mr. J. Yallappa",
+    "designation": "Assistant Professor",
+    "qualification": "M.Sc",
+    "email": "yallappa.gs@agadiengcollege.com",
+    "phone": "+91 9844725017",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/06/Yallappa.jpg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Mr. Shanmukh G.",
+    "designation": "Assistant Professor",
+    "qualification": "M.Sc",
+    "email": "hanmukh.gs@agadiengcollege.com",
+    "phone": "+91 8951162100",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/06/Shanmukha-G.jpg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Ms. Savitri Wali",
+    "designation": "Assistant Professor",
+    "qualification": "M.Sc",
+    "email": "savitri.math@agadiengcollege.com",
+    "phone": "+91 8748941836",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/06/Savitri.jpg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Ms. Geeta Byati",
+    "designation": "Assistant Professor",
+    "qualification": "M.Sc",
+    "email": "geeta.math@agadiengcollege.com",
+    "phone": "+91 9449121196",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/06/Geeta.jpg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Ms. Renuka Kadiwal",
+    "designation": "Assistant Professor",
+    "qualification": "M.Sc",
+    "email": "renuka.math@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2026/11/renuka.jpeg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Mr. Ramesh Koppad",
+    "designation": "Sr. Instructor",
+    "qualification": "M.Sc",
+    "email": "firstyear@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/06/RK.jpg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Mr. Prashant Lingashetti",
+    "designation": "Instructor",
+    "qualification": "M.Sc",
+    "email": "firstyear@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2024/06/Prashant.jpg"
+  },
+  {
+    "dept": "basic-science",
+    "name": "Mr. Sarvesh Sulakhe",
+    "designation": "Instructor",
+    "qualification": "M.Sc",
+    "email": "firstyear@agadiengcollege.com",
+    "phone": "+91 9448120344",
+    "photo": "https://agadiengcollege.com/wp-content/uploads/2025/09/sarvesh-sulakhe.jpeg"
+  }
+]
