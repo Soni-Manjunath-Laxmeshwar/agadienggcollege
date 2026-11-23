@@ -1,13 +1,69 @@
-const Database = require('better-sqlite3');
+require('dotenv').config();
 const path = require('path');
+const { Pool } = require('pg');
 
+const isPg = Boolean(process.env.DATABASE_URL);
+let pgPool = null;
+let db = null;
 const dbPath = path.join(__dirname, 'college.db');
-const db = new Database(dbPath);
 
-// Enable foreign keys
-db.pragma('foreign_keys = ON');
+if (isPg) {
+  pgPool = new Pool({
+    connectionString: process.env.DATABASE_URL,
+    ssl: { rejectUnauthorized: false }
+  });
+  console.log('>>> Initialized Cloud PostgreSQL connection pool (Supabase/Neon)');
+} else {
+  const Database = require('better-sqlite3');
+  db = new Database(dbPath);
+  // Enable foreign keys
+  db.pragma('foreign_keys = ON');
+}
+
+async function query(sql, params = []) {
+  if (isPg) {
+    let i = 1;
+    const pgSql = sql.replace(/\?/g, () => `$${i++}`);
+    const res = await pgPool.query(pgSql, params);
+    return res.rows;
+  } else {
+    return db.prepare(sql).all(...params);
+  }
+}
+
+async function queryOne(sql, params = []) {
+  if (isPg) {
+    let i = 1;
+    const pgSql = sql.replace(/\?/g, () => `$${i++}`);
+    const res = await pgPool.query(pgSql, params);
+    return res.rows[0] || null;
+  } else {
+    return db.prepare(sql).get(...params) || null;
+  }
+}
+
+async function execute(sql, params = []) {
+  if (isPg) {
+    let i = 1;
+    let pgSql = sql.replace(/\?/g, () => `$${i++}`);
+    const isInsert = /^\s*insert\s+into/i.test(pgSql);
+    if (isInsert && !/returning/i.test(pgSql)) {
+      pgSql += ' RETURNING id';
+    }
+    const res = await pgPool.query(pgSql, params);
+    const lastId = res.rows[0]?.id;
+    return { lastInsertRowid: lastId, changes: res.rowCount };
+  } else {
+    const res = db.prepare(sql).run(...params);
+    return { lastInsertRowid: res.lastInsertRowid, changes: res.changes };
+  }
+}
 
 function initDb() {
+  if (isPg) {
+    console.log('>>> Cloud database mode active: skipping local SQLite init.');
+    return;
+  }
   // Create tables
   db.exec(`
     CREATE TABLE IF NOT EXISTS departments (
@@ -1982,5 +2038,9 @@ function seedDataIfEmpty() {
 
 module.exports = {
   db,
-  initDb
+  initDb,
+  query,
+  queryOne,
+  execute,
+  isPg
 };
